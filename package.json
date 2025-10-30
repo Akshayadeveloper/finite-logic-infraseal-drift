@@ -1,0 +1,20 @@
+{
+  "name": "@finite-logic/infraseal-drift",
+  "version": "1.0.0",
+  "description": "FINITE LOGIC: InfraSeal Drift - Focus: DevOps &amp; Configuration Management",
+  "main": "src/Reconciler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshayadeveloper/finite-logic-infraseal-drift.git"
+  },
+  "keywords": ["finite-logic","DevOps","Configuration Management","reconciliation engine","snowflake servers","Drift Severity Score","Configuration Drift Preventer","InfraSeal","(IaC)","prioritizing automated correction"],
+  "author": "Akshaya Selvakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayadeveloper/finite-logic-infraseal-drift/issues"
+  },
+  "homepage": "https://github.com/Akshayadeveloper/finite-logic-infraseal-drift#readme"
+}
