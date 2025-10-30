@@ -1,3 +1,4 @@
+
 /**
  * FINITE LOGIC - InfraSeal: Configuration Drift Preventer
  * Compares desired state (IaC) with live state and calculates a severity score.
